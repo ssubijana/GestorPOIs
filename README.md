@@ -1,7 +1,13 @@
 GestorPOIs
 ==========
 
-A small Android application for managing points of interest in a map.
+A small Android application for managing points of interest in a map. It is an app for an online course which treats the following Android features:
+
++ Maps and geolocation
++ Operations and information managing with databases
++ Communication between activities
++ Lists
++ Contextual and application menus.
 
 With this app the user can do:
 
