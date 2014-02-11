@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuNuevo"
+        android:titleCondensed="Nuevo" 
+        android:visible="true" 
+        android:enabled="true"
+        android:title="@string/menuNuevo"/>
+    <item
+        android:id="@+id/menuGuardar"
+        android:titleCondensed="Guardar" 
+        android:visible="true" 
+        android:enabled="false"
+        android:title="@string/menuGuardar"/>
+    <item
+        android:id="@+id/menuSelect"
+        android:titleCondensed="Seleccionar" 
+        android:visible="true" 
+        android:enabled="true"
+        android:title="@string/menuSelect"/>
+    
+    <item
+        android:id="@+id/menuAdd"
+        android:titleCondensed="Añadir" 
+        android:visible="false" 
+        android:enabled="true"
+        android:title="@string/menuAdd"/>
+    <item
+        android:id="@+id/menuBorrado"
+        android:titleCondensed="Borrar" 
+        android:visible="false" 
+        android:enabled="true"
+        android:title="@string/menuBorrar"/>
+    
+     <item
+        android:id="@+id/menuVerRuta"
+        android:titleCondensed="Borrar" 
+        android:visible="false" 
+        android:enabled="true"
+        android:title="@string/menuVerRuta"/>
+
+</menu>

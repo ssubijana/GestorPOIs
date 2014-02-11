@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestorPOIs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="menuNuevo">Nueva ruta</string>
+    <string name="menuGuardar">Guardar ruta</string>
+    <string name="menuSelect">Ver rutas</string>
+    <string name="menuBorrar">Modo eliminar POIs</string>
+    <string name="menuBorrarRuta">Eliminar</string>
+    <string name="menuAdd">Modo añadir POIs</string>
+    <string name="menuVer">Ver</string>
+     <string name="menuVerRuta">Trazar ruta</string>
+    
+    <string name="lblBotonVolver">Volver</string>
+
+</resources>

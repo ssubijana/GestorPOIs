@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" > 
+    
+    <item
+        android:id="@+id/menuVer"
+        android:titleCondensed="Ver" 
+        android:visible="true" 
+        android:enabled="true"
+        android:title="@string/menuVer"/>
+    <item
+        android:id="@+id/menuEliminar"
+        android:titleCondensed="Eliminar" 
+        android:visible="true" 
+        android:enabled="true"
+        android:title="@string/menuBorrarRuta"/>
+
+</menu>
